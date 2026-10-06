@@ -16,7 +16,7 @@ Static site, no build step. Open `index.html` or deploy the folder as-is (GitHub
 
 ## Before going live
 Search all `.html` files and replace:
-- `https://primemaven.dev` → your real domain (also in `sitemap.xml` and `robots.txt`)
+- Domain is set to `https://primemaven.zevcloud.app`
 - `YOUR_FORM_ID` → your Formspree form ID (contact and booking forms)
 - `G-XXXXXXXXXX` → your Google Analytics 4 ID
 - `YOUR_SEARCH_CONSOLE_TOKEN` → your Google Search Console verification code

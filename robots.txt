@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://primemaven.dev/sitemap.xml
+Sitemap: https://primemaven.zevcloud.app/sitemap.xml
