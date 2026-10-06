@@ -1,0 +1,12 @@
+{
+  "name": "primemaven",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Portfolio site and admin dashboard for Adewunmi Erijide Adeniji (Primemaven)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
