@@ -18,10 +18,17 @@
     "fullName": "Adewunmi Erijide Adeniji",
     "shortName": "Adewunmi Adeniji",
     "handle": "Primemaven",
-    "titles": ["Full Stack Developer", "CEO/Founder, MyPropifyNG", "TEDx Speaker"],
+    "titles": [
+      "Full Stack Developer",
+      "CEO/Founder, MyPropifyNG",
+      "TEDx Speaker"
+    ],
     "location": "Lagos, Nigeria",
     "email": "adeniji@rhadsoft.com.ng",
-    "phones": ["+234 815 665 5091", "+234 905 719 7678"],
+    "phones": [
+      "+234 815 665 5091",
+      "+234 905 719 7678"
+    ],
     "whatsapp": "2348156655091",
     "linkedin": "https://www.linkedin.com/in/adewunmi-adeniji-413202230/",
     "x": "https://x.com/primemaven_",
@@ -37,39 +44,100 @@
     "heading": "Hi, I'm Adewunmi.",
     "highlight": "Primemaven",
     "chips": [
-      { "icon": "</>", "text": "Full Stack Developer" },
-      { "icon": "★", "text": "CEO/Founder, MyPropifyNG" },
-      { "icon": "◉", "text": "TEDx Speaker" }
+      {
+        "icon": "</>",
+        "text": "Full Stack Developer"
+      },
+      {
+        "icon": "★",
+        "text": "CEO/Founder, MyPropifyNG"
+      },
+      {
+        "icon": "◉",
+        "text": "TEDx Speaker"
+      }
     ],
     "lede": "I design, build and ship complete web applications, from database and APIs to clean, fast interfaces. I build software for businesses in property, compliance, finance, HR, e-commerce and community services.",
-    "primaryCta": { "label": "View my projects →", "link": "#projects" },
-    "secondaryCta": { "label": "Let's work together", "link": "#contact" },
+    "primaryCta": {
+      "label": "View my projects →",
+      "link": "#projects"
+    },
+    "secondaryCta": {
+      "label": "Let's work together",
+      "link": "#contact"
+    },
     "floatChips": [
-      { "badge": "JS", "text": "Full stack" },
-      { "badge": "✓", "text": "Ships to production" }
+      {
+        "badge": "JS",
+        "text": "Full stack"
+      },
+      {
+        "badge": "✓",
+        "text": "Ships to production"
+      }
     ],
     "cardFacts": [
-      { "label": "Based in", "value": "Lagos, Nigeria" },
-      { "label": "CEO/Founder", "value": "MyPropifyNG" },
-      { "label": "Founder", "value": "Rhadsoft Tech" },
-      { "label": "Speaker", "value": "TEDx" }
+      {
+        "label": "Based in",
+        "value": "Lagos, Nigeria"
+      },
+      {
+        "label": "CEO/Founder",
+        "value": "MyPropifyNG"
+      },
+      {
+        "label": "Founder",
+        "value": "Rhadsoft Tech"
+      },
+      {
+        "label": "Speaker",
+        "value": "TEDx"
+      }
     ]
   },
   "stats": [
-    { "value": "50+", "label": "Projects delivered" },
-    { "value": "30+", "label": "Clients served" },
-    { "value": "3", "label": "Cities served by MyPropifyNG" },
-    { "value": "6", "label": "Products launched or in build" }
+    {
+      "value": "50+",
+      "label": "Projects delivered"
+    },
+    {
+      "value": "30+",
+      "label": "Clients served"
+    },
+    {
+      "value": "3",
+      "label": "Cities served by MyPropifyNG"
+    },
+    {
+      "value": "6",
+      "label": "Products launched or in build"
+    }
   ],
   "about": {
     "eyebrow": "About me",
     "heading": "A developer who understands how ~~businesses~~ actually run.",
     "body": "I'm Adewunmi Erijide Adeniji, known online as **Primemaven**. I'm a full stack developer based in Lagos, and I enjoy turning messy, manual processes into simple software people want to use.\n\nI'm the CEO and Founder of **MyPropifyNG**, a real estate platform that helps Nigerians find homes through verified listings, without the risk of fraud. I also run Rhadsoft Tech, my software company, where I build my own products and custom software for clients.\n\nI'm also a TEDx speaker, and I speak at and moderate sessions at tech events. As the software developer at IEMA Standards Limited, an ISO certification and training company, I build the internal systems the business runs on.",
     "highlights": [
-      { "icon": "mic", "title": "TEDx speaker", "text": "Speaker and moderator at tech and industry events." },
-      { "icon": "home", "title": "Founder & CEO", "text": "Leading MyPropifyNG, verified real estate for Nigeria." },
-      { "icon": "grid", "title": "Business systems", "text": "CRM, finance and HR tools that teams rely on daily." },
-      { "icon": "users", "title": "Community lead", "text": "Leading the Zevop Ikorodu developer chapter." }
+      {
+        "icon": "mic",
+        "title": "TEDx speaker",
+        "text": "Speaker and moderator at tech and industry events."
+      },
+      {
+        "icon": "home",
+        "title": "Founder & CEO",
+        "text": "Leading MyPropifyNG, verified real estate for Nigeria."
+      },
+      {
+        "icon": "grid",
+        "title": "Business systems",
+        "text": "CRM, finance and HR tools that teams rely on daily."
+      },
+      {
+        "icon": "users",
+        "title": "Community lead",
+        "text": "Leading the Zevop Ikorodu developer chapter."
+      }
     ]
   },
   "ventures": {
@@ -77,18 +145,57 @@
     "heading": "Companies I've ==built==",
     "intro": "Two companies I founded and run. Open a case study for the full story.",
     "items": [
-      { "style": "dark", "tag": "CEO/Founder · Since 2025", "name": "MyPropifyNG", "text": "A real estate platform that helps Nigerians find homes through verified listings, without the risk of fraud.", "points": ["3-stage listing verification", "Lagos · Abuja · Port Harcourt", "Free listings for owners and seekers"], "link": "/mypropify" },
-      { "style": "blue", "tag": "Founder · Since 2021", "name": "Rhadsoft Tech", "text": "A software studio building web platforms, mobile apps, ERP systems and AI solutions for Nigerian businesses.", "points": ["50+ projects delivered", "30+ clients served", "Studios in Surulere & Ikorodu"], "link": "/rhadsoft" }
+      {
+        "style": "dark",
+        "tag": "CEO/Founder · Since 2025",
+        "name": "MyPropifyNG",
+        "text": "A real estate platform that helps Nigerians find homes through verified listings, without the risk of fraud.",
+        "points": [
+          "3-stage listing verification",
+          "Lagos · Abuja · Port Harcourt",
+          "Free listings for owners and seekers"
+        ],
+        "link": "/mypropify"
+      },
+      {
+        "style": "blue",
+        "tag": "Founder · Since 2021",
+        "name": "Rhadsoft Tech",
+        "text": "A software studio building web platforms, mobile apps, ERP systems and AI solutions for Nigerian businesses.",
+        "points": [
+          "50+ projects delivered",
+          "30+ clients served",
+          "Studios in Surulere & Ikorodu"
+        ],
+        "link": "/rhadsoft"
+      }
     ]
   },
   "press": {
     "label": "Featured & speaking at",
     "items": [
-      { "text": "TEDx Speaker", "style": "tedx" },
-      { "text": "Zev Builders", "style": "" },
-      { "text": "Add event or publication", "style": "placeholder" },
-      { "text": "Add event or publication", "style": "placeholder" },
-      { "text": "Add event or publication", "style": "placeholder" }
+      {
+        "text": "TEDx Speaker",
+        "style": "tedx"
+      },
+      {
+        "text": "Zev Builders",
+        "style": "",
+        "logo": "/images/uploads/4cd0e56e159c5e04547c5cb2ed30cc9ce9bd4a06-muxgzf9q.jpg"
+      },
+      {
+        "text": "Nigeria Innovation Summit",
+        "style": "tedx",
+        "logo": "/images/uploads/summitlogo-muxh19z9.jpg"
+      },
+      {
+        "text": "Add event or publication",
+        "style": "placeholder"
+      },
+      {
+        "text": "Add event or publication",
+        "style": "placeholder"
+      }
     ]
   },
   "skills": {
@@ -96,10 +203,48 @@
     "heading": "Tools and __technologies__ I work with.",
     "intro": "A practical stack for building reliable web products, from first sketch to production.",
     "groups": [
-      { "name": "Frontend", "items": ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS"] },
-      { "name": "Backend", "items": ["Node.js", "Express", "PHP", "Laravel", "REST APIs", "Auth & Roles"] },
-      { "name": "Database", "items": ["PostgreSQL", "MySQL", "MongoDB", "Firebase"] },
-      { "name": "Tools & DevOps", "items": ["Git", "GitHub", "Cloud Hosting", "Payment Gateways", "Figma"] }
+      {
+        "name": "Frontend",
+        "items": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Next.js",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "name": "Backend",
+        "items": [
+          "Node.js",
+          "Express",
+          "PHP",
+          "Laravel",
+          "REST APIs",
+          "Auth & Roles"
+        ]
+      },
+      {
+        "name": "Database",
+        "items": [
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Firebase"
+        ]
+      },
+      {
+        "name": "Tools & DevOps",
+        "items": [
+          "Git",
+          "GitHub",
+          "Cloud Hosting",
+          "Payment Gateways",
+          "Figma"
+        ]
+      }
     ]
   },
   "projects": {
@@ -107,15 +252,155 @@
     "heading": "Selected ==work==",
     "intro": "Products I've built for companies, for Rhadsoft Tech and MyPropifyNG, and for fun.",
     "items": [
-      { "name": "MyPropifyNG", "org": "CEO/Founder", "status": "live", "statusLabel": "Live", "title": "Verified Real Estate Platform", "text": "Connects people looking for homes with verified listings, so renters and buyers can find a home without the risk of fraud.", "tags": ["PropTech", "Verified listings", "Lagos · Abuja · PH"], "link": "https://www.mypropify.com.ng/", "image": "", "colorFrom": "#2E6BFF", "colorTo": "#0A1A42" },
-      { "name": "BookoraNG", "org": "Rhadsoft Tech", "status": "live", "statusLabel": "Live", "title": "Digital Books Marketplace", "text": "A platform where Nigerian authors publish and sell ebooks, and readers discover and buy them.", "tags": ["Marketplace", "Payments", "Publishing"], "link": "", "image": "", "colorFrom": "#3A2BB8", "colorTo": "#0A1A42" },
-      { "name": "IkoroduSquare", "org": "Rhadsoft Tech", "status": "live", "statusLabel": "Live", "title": "Local Discovery Platform", "text": "A directory and marketplace that helps people find and reach businesses and services in Ikorodu.", "tags": ["Directory", "Listings", "Local"], "link": "", "image": "", "colorFrom": "#0B6E8F", "colorTo": "#0A1A42" },
-      { "name": "BookMeNaija", "org": "Rhadsoft Tech", "status": "live", "statusLabel": "Live", "title": "Service Bookings Platform", "text": "Lets customers book services and appointments online, and helps providers manage their bookings.", "tags": ["Bookings", "Scheduling"], "link": "", "image": "", "colorFrom": "#1F4FD8", "colorTo": "#0B6E8F" },
-      { "name": "CRMops · FINops · HRops", "org": "IEMA Standards Limited", "status": "live", "statusLabel": "In use", "title": "Internal Operations Suite", "text": "Connected systems for client management, finance and human resources at an ISO certification firm.", "tags": ["CRM", "Finance", "HR"], "link": "", "image": "", "colorFrom": "#0F2560", "colorTo": "#2E6BFF" },
-      { "name": "Kompliva", "org": "Rhadsoft Tech", "status": "build", "statusLabel": "In build", "title": "ISO Compliance Management App", "text": "Helps organisations manage ISO documents, audits and corrective actions, and stay audit-ready all year.", "tags": ["SaaS", "ISO 9001", "ISO 27001"], "link": "", "image": "", "colorFrom": "#1F4FD8", "colorTo": "#0A1A42" },
-      { "name": "RenRide", "org": "Rhadsoft Tech", "status": "build", "statusLabel": "In build", "title": "Vehicle Rental Platform", "text": "A platform for renting vehicles, currently in development at Rhadsoft Tech.", "tags": ["Mobility", "Rentals"], "link": "", "image": "", "colorFrom": "#0A1A42", "colorTo": "#3A6BD8" },
-      { "name": "Savings Circles", "org": "Rhadsoft Tech", "status": "plan", "statusLabel": "Planned", "title": "Ajo / Esusu Savings App", "text": "Rotating savings circles for young people, with contribution schedules and payout turns.", "tags": ["Fintech", "Mobile-first"], "link": "", "image": "", "colorFrom": "#1F4FD8", "colorTo": "#5B3CC4" },
-      { "name": "Lagos Snake", "org": "Side project", "status": "live", "statusLabel": "Playable", "title": "Browser Game", "text": "A Nokia-style snake game with animal prey to chase and predators to avoid.", "tags": ["JavaScript", "Canvas"], "link": "", "image": "", "colorFrom": "#0A1A42", "colorTo": "#1A8F6A" }
+      {
+        "name": "MyPropifyNG",
+        "org": "CEO/Founder",
+        "status": "live",
+        "statusLabel": "Live",
+        "title": "Verified Real Estate Platform",
+        "text": "Connects people looking for homes with verified listings, so renters and buyers can find a home without the risk of fraud.",
+        "tags": [
+          "PropTech",
+          "Verified listings",
+          "Lagos · Abuja · PH"
+        ],
+        "link": "https://www.mypropify.com.ng/",
+        "image": "",
+        "colorFrom": "#2E6BFF",
+        "colorTo": "#0A1A42"
+      },
+      {
+        "name": "BookoraNG",
+        "org": "Rhadsoft Tech",
+        "status": "live",
+        "statusLabel": "Live",
+        "title": "Digital Books Marketplace",
+        "text": "A platform where Nigerian authors publish and sell ebooks, and readers discover and buy them.",
+        "tags": [
+          "Marketplace",
+          "Payments",
+          "Publishing"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#3A2BB8",
+        "colorTo": "#0A1A42"
+      },
+      {
+        "name": "IkoroduSquare",
+        "org": "Rhadsoft Tech",
+        "status": "live",
+        "statusLabel": "Live",
+        "title": "Local Discovery Platform",
+        "text": "A directory and marketplace that helps people find and reach businesses and services in Ikorodu.",
+        "tags": [
+          "Directory",
+          "Listings",
+          "Local"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#0B6E8F",
+        "colorTo": "#0A1A42"
+      },
+      {
+        "name": "BookMeNaija",
+        "org": "Rhadsoft Tech",
+        "status": "live",
+        "statusLabel": "Live",
+        "title": "Service Bookings Platform",
+        "text": "Lets customers book services and appointments online, and helps providers manage their bookings.",
+        "tags": [
+          "Bookings",
+          "Scheduling"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#1F4FD8",
+        "colorTo": "#0B6E8F"
+      },
+      {
+        "name": "CRMops · FINops · HRops",
+        "org": "IEMA Standards Limited",
+        "status": "live",
+        "statusLabel": "In use",
+        "title": "Internal Operations Suite",
+        "text": "Connected systems for client management, finance and human resources at an ISO certification firm.",
+        "tags": [
+          "CRM",
+          "Finance",
+          "HR"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#0F2560",
+        "colorTo": "#2E6BFF"
+      },
+      {
+        "name": "Kompliva",
+        "org": "Rhadsoft Tech",
+        "status": "build",
+        "statusLabel": "In build",
+        "title": "ISO Compliance Management App",
+        "text": "Helps organisations manage ISO documents, audits and corrective actions, and stay audit-ready all year.",
+        "tags": [
+          "SaaS",
+          "ISO 9001",
+          "ISO 27001"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#1F4FD8",
+        "colorTo": "#0A1A42"
+      },
+      {
+        "name": "RenRide",
+        "org": "Rhadsoft Tech",
+        "status": "build",
+        "statusLabel": "In build",
+        "title": "Vehicle Rental Platform",
+        "text": "A platform for renting vehicles, currently in development at Rhadsoft Tech.",
+        "tags": [
+          "Mobility",
+          "Rentals"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#0A1A42",
+        "colorTo": "#3A6BD8"
+      },
+      {
+        "name": "Savings Circles",
+        "org": "Rhadsoft Tech",
+        "status": "plan",
+        "statusLabel": "Planned",
+        "title": "Ajo / Esusu Savings App",
+        "text": "Rotating savings circles for young people, with contribution schedules and payout turns.",
+        "tags": [
+          "Fintech",
+          "Mobile-first"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#1F4FD8",
+        "colorTo": "#5B3CC4"
+      },
+      {
+        "name": "Lagos Snake",
+        "org": "Side project",
+        "status": "live",
+        "statusLabel": "Playable",
+        "title": "Browser Game",
+        "text": "A Nokia-style snake game with animal prey to chase and predators to avoid.",
+        "tags": [
+          "JavaScript",
+          "Canvas"
+        ],
+        "link": "",
+        "image": "",
+        "colorFrom": "#0A1A42",
+        "colorTo": "#1A8F6A"
+      }
     ]
   },
   "process": {
@@ -123,20 +408,74 @@
     "heading": "From idea to ==launch==",
     "intro": "A clear process, so you always know what's happening and what comes next.",
     "steps": [
-      { "title": "Discover", "text": "We talk through your goals, your users and how your business works today. I map out what the software needs to do.", "note": "Brief & scope" },
-      { "title": "Design", "text": "I plan the screens, the data and the user flow, and share designs with you for feedback before any code is written.", "note": "Wireframes & UI" },
-      { "title": "Build", "text": "I develop the front end, back end and database, sharing working progress regularly so you can test as we go.", "note": "Weekly demos" },
-      { "title": "Launch & support", "text": "I deploy to production, train your team and stay on hand to fix issues and add features as you grow.", "note": "Go live & maintain" }
+      {
+        "title": "Discover",
+        "text": "We talk through your goals, your users and how your business works today. I map out what the software needs to do.",
+        "note": "Brief & scope"
+      },
+      {
+        "title": "Design",
+        "text": "I plan the screens, the data and the user flow, and share designs with you for feedback before any code is written.",
+        "note": "Wireframes & UI"
+      },
+      {
+        "title": "Build",
+        "text": "I develop the front end, back end and database, sharing working progress regularly so you can test as we go.",
+        "note": "Weekly demos"
+      },
+      {
+        "title": "Launch & support",
+        "text": "I deploy to production, train your team and stay on hand to fix issues and add features as you grow.",
+        "note": "Go live & maintain"
+      }
     ]
   },
   "experience": {
     "eyebrow": "Experience",
     "heading": "Where I've been ~~building~~.",
     "items": [
-      { "badge": "MyPropifyNG", "label": "CEO/Founder", "title": "CEO & Founder", "place": "MyPropifyNG · mypropify.com.ng", "points": ["Founded and lead MyPropifyNG, a real estate platform built to protect Nigerians from property fraud.", "Launched in 2025 across Lagos, Abuja and Port Harcourt, with free listings for owners and seekers.", "Lead product, including 3-stage listing verification, property requests and neighbourhood insights."] },
-      { "badge": "Rhadsoft Tech", "label": "Founder", "title": "Founder & Lead Developer", "place": "Rhadsoft Tech · rhadsoft.com.ng", "points": ["Founded in 2021; studios in Surulere and Ikorodu, Lagos.", "Delivered 50+ projects for 30+ clients, including web platforms, mobile apps, ERP systems and AI tools.", "Built our own products: MyPropifyNG, BookoraNG, IkoroduSquare and BookMeNaija."] },
-      { "badge": "IEMA Standards", "label": "Software Developer", "title": "Software Developer", "place": "IEMA Standards Limited · Lekki, Lagos", "points": ["Built CRMops, FINops and HRops, the company's internal business systems.", "Develop and maintain software tools that support certification and training operations."] },
-      { "badge": "Zevop", "label": "Community", "title": "Ikorodu Chapter Lead", "place": "Zevop · Zev Builders developer community", "points": ["Lead the Ikorodu chapter of Zev Builders, Zevop's developer community.", "Help local developers build with Zevop's platform for payments, commerce and cloud."] }
+      {
+        "badge": "MyPropifyNG",
+        "label": "CEO/Founder",
+        "title": "CEO & Founder",
+        "place": "MyPropifyNG · mypropify.com.ng",
+        "points": [
+          "Founded and lead MyPropifyNG, a real estate platform built to protect Nigerians from property fraud.",
+          "Launched in 2025 across Lagos, Abuja and Port Harcourt, with free listings for owners and seekers.",
+          "Lead product, including 3-stage listing verification, property requests and neighbourhood insights."
+        ]
+      },
+      {
+        "badge": "Rhadsoft Tech",
+        "label": "Founder",
+        "title": "Founder & Lead Developer",
+        "place": "Rhadsoft Tech · rhadsoft.com.ng",
+        "points": [
+          "Founded in 2021; studios in Surulere and Ikorodu, Lagos.",
+          "Delivered 50+ projects for 30+ clients, including web platforms, mobile apps, ERP systems and AI tools.",
+          "Built our own products: MyPropifyNG, BookoraNG, IkoroduSquare and BookMeNaija."
+        ]
+      },
+      {
+        "badge": "IEMA Standards",
+        "label": "Software Developer",
+        "title": "Software Developer",
+        "place": "IEMA Standards Limited · Lekki, Lagos",
+        "points": [
+          "Built CRMops, FINops and HRops, the company's internal business systems.",
+          "Develop and maintain software tools that support certification and training operations."
+        ]
+      },
+      {
+        "badge": "Zevop",
+        "label": "Community",
+        "title": "Ikorodu Chapter Lead",
+        "place": "Zevop · Zev Builders developer community",
+        "points": [
+          "Lead the Ikorodu chapter of Zev Builders, Zevop's developer community.",
+          "Help local developers build with Zevop's platform for payments, commerce and cloud."
+        ]
+      }
     ]
   },
   "speakingTeaser": {
@@ -144,9 +483,21 @@
     "heading": "On stage, on panels and ==in the room==",
     "text": "I'm a TEDx speaker, and I've spoken at and moderated sessions at tech and industry events. I talk about building software, starting companies and growing tech in Nigeria.",
     "roles": [
-      { "style": "tedx", "title": "TEDx Speaker", "text": "Shared my story and ideas on the TEDx stage" },
-      { "style": "mic", "title": "Event Speaker", "text": "Talks at tech and notable events" },
-      { "style": "chat", "title": "Panel Moderator", "text": "Guiding conversations with industry leaders" }
+      {
+        "style": "tedx",
+        "title": "TEDx Speaker",
+        "text": "Shared my story and ideas on the TEDx stage"
+      },
+      {
+        "style": "mic",
+        "title": "Event Speaker",
+        "text": "Talks at tech and notable events"
+      },
+      {
+        "style": "chat",
+        "title": "Panel Moderator",
+        "text": "Guiding conversations with industry leaders"
+      }
     ],
     "ctaTitle": "Planning an event?",
     "ctaText": "See my talk topics, bios and headshots, or browse photos from past events."
@@ -161,44 +512,174 @@
     "joinLabel": "Join the Ikorodu chapter ↗",
     "joinLink": "https://community.zev.dev/join?chapter=ikorodu",
     "items": [
-      { "icon": "users", "title": "Chapter meetups", "text": "Bringing local developers together to share knowledge and build connections." },
-      { "icon": "code", "title": "Hands-on building", "text": "Helping developers build and deploy real projects on Zevop's platform." },
-      { "icon": "layers", "title": "Mentoring", "text": "Supporting upcoming developers in Ikorodu as they grow their skills and careers." }
+      {
+        "icon": "users",
+        "title": "Chapter meetups",
+        "text": "Bringing local developers together to share knowledge and build connections."
+      },
+      {
+        "icon": "code",
+        "title": "Hands-on building",
+        "text": "Helping developers build and deploy real projects on Zevop's platform."
+      },
+      {
+        "icon": "layers",
+        "title": "Mentoring",
+        "text": "Supporting upcoming developers in Ikorodu as they grow their skills and careers."
+      }
     ]
   },
   "testimonials": {
     "eyebrow": "Testimonials",
     "heading": "What people say about ~~working with me~~",
     "items": [
-      { "quote": "Add a short quote from a client about the system you built for them and the difference it made to their business.", "name": "Client Name", "role": "Role · Company", "photo": "", "placeholder": true },
-      { "quote": "Add a quote from a colleague or manager about how you work: your reliability, communication or problem solving.", "name": "Colleague Name", "role": "Role · Company", "photo": "", "placeholder": true },
-      { "quote": "Add a quote from a MyPropifyNG user or partner about finding a property safely through the platform.", "name": "User Name", "role": "Renter · Lagos", "photo": "", "placeholder": true }
+      {
+        "quote": "Add a short quote from a client about the system you built for them and the difference it made to their business.",
+        "name": "Client Name",
+        "role": "Role · Company",
+        "photo": "",
+        "placeholder": true
+      },
+      {
+        "quote": "Add a quote from a colleague or manager about how you work: your reliability, communication or problem solving.",
+        "name": "Colleague Name",
+        "role": "Role · Company",
+        "photo": "",
+        "placeholder": true
+      },
+      {
+        "quote": "Add a quote from a MyPropifyNG user or partner about finding a property safely through the platform.",
+        "name": "User Name",
+        "role": "Renter · Lagos",
+        "photo": "",
+        "placeholder": true
+      }
     ]
   },
   "companies": {
     "eyebrow": "Companies",
     "heading": "Companies I've __worked with__.",
     "items": [
-      { "name": "MyPropifyNG", "line1": "MyPropify", "line2": "NG", "logo": "" },
-      { "name": "Zevop", "line1": "Zevop", "line2": "Technology", "logo": "" },
-      { "name": "IEMA Standards Limited", "line1": "IEMA", "line2": "Standards", "logo": "" },
-      { "name": "Rhadsoft Tech", "line1": "Rhadsoft", "line2": "Tech", "logo": "" },
-      { "name": "FCMB Pensions", "line1": "FCMB", "line2": "Pensions", "logo": "" },
-      { "name": "Quantum Steel Nigeria", "line1": "Quantum", "line2": "Steel", "logo": "" },
-      { "name": "Sunflag Steel Nigeria", "line1": "Sunflag", "line2": "Steel", "logo": "" },
-      { "name": "Bono Energy", "line1": "Bono", "line2": "Energy", "logo": "" },
-      { "name": "Cardforte Limited", "line1": "Cardforte", "line2": "Limited", "logo": "" },
-      { "name": "SpaceTrade Technologies", "line1": "SpaceTrade", "line2": "Technologies", "logo": "" },
-      { "name": "Mainway Insurance", "line1": "Mainway", "line2": "Insurance", "logo": "" },
-      { "name": "RECAP", "line1": "RECAP", "line2": "", "logo": "" },
-      { "name": "Driverpot", "line1": "Driverpot", "line2": "", "logo": "" },
-      { "name": "CSMC Worldwide", "line1": "CSMC", "line2": "Worldwide", "logo": "" },
-      { "name": "Estana Apartments", "line1": "Estana", "line2": "Apartments", "logo": "" },
-      { "name": "Marfran Energy", "line1": "Marfran", "line2": "Energy", "logo": "" },
-      { "name": "Kaplan Energy", "line1": "Kaplan", "line2": "Energy", "logo": "" },
-      { "name": "Adebisi Foods", "line1": "Adebisi", "line2": "Foods", "logo": "" },
-      { "name": "IEMA Institute", "line1": "IEMA", "line2": "Institute", "logo": "" },
-      { "name": "Stanfrey Engineering", "line1": "Stanfrey", "line2": "Engineering", "logo": "" }
+      {
+        "name": "MyPropifyNG",
+        "line1": "MyPropify",
+        "line2": "NG",
+        "logo": ""
+      },
+      {
+        "name": "Zevop",
+        "line1": "Zevop",
+        "line2": "Technology",
+        "logo": ""
+      },
+      {
+        "name": "IEMA Standards Limited",
+        "line1": "IEMA",
+        "line2": "Standards",
+        "logo": ""
+      },
+      {
+        "name": "Rhadsoft Tech",
+        "line1": "Rhadsoft",
+        "line2": "Tech",
+        "logo": ""
+      },
+      {
+        "name": "FCMB Pensions",
+        "line1": "FCMB",
+        "line2": "Pensions",
+        "logo": ""
+      },
+      {
+        "name": "Quantum Steel Nigeria",
+        "line1": "Quantum",
+        "line2": "Steel",
+        "logo": ""
+      },
+      {
+        "name": "Sunflag Steel Nigeria",
+        "line1": "Sunflag",
+        "line2": "Steel",
+        "logo": ""
+      },
+      {
+        "name": "Bono Energy",
+        "line1": "Bono",
+        "line2": "Energy",
+        "logo": ""
+      },
+      {
+        "name": "Cardforte Limited",
+        "line1": "Cardforte",
+        "line2": "Limited",
+        "logo": ""
+      },
+      {
+        "name": "SpaceTrade Technologies",
+        "line1": "SpaceTrade",
+        "line2": "Technologies",
+        "logo": ""
+      },
+      {
+        "name": "Mainway Insurance",
+        "line1": "Mainway",
+        "line2": "Insurance",
+        "logo": ""
+      },
+      {
+        "name": "RECAP",
+        "line1": "RECAP",
+        "line2": "",
+        "logo": ""
+      },
+      {
+        "name": "Driverpot",
+        "line1": "Driverpot",
+        "line2": "",
+        "logo": ""
+      },
+      {
+        "name": "CSMC Worldwide",
+        "line1": "CSMC",
+        "line2": "Worldwide",
+        "logo": ""
+      },
+      {
+        "name": "Estana Apartments",
+        "line1": "Estana",
+        "line2": "Apartments",
+        "logo": ""
+      },
+      {
+        "name": "Marfran Energy",
+        "line1": "Marfran",
+        "line2": "Energy",
+        "logo": ""
+      },
+      {
+        "name": "Kaplan Energy",
+        "line1": "Kaplan",
+        "line2": "Energy",
+        "logo": ""
+      },
+      {
+        "name": "Adebisi Foods",
+        "line1": "Adebisi",
+        "line2": "Foods",
+        "logo": ""
+      },
+      {
+        "name": "IEMA Institute",
+        "line1": "IEMA",
+        "line2": "Institute",
+        "logo": ""
+      },
+      {
+        "name": "Stanfrey Engineering",
+        "line1": "Stanfrey",
+        "line2": "Engineering",
+        "logo": ""
+      }
     ]
   },
   "contact": {
@@ -207,7 +688,14 @@
     "text": "Whether it's a new product, an internal system or a website for your business, send me a message and I'll get back to you within 24 hours.",
     "formTitle": "Send me a message",
     "formIntro": "Tell me a little about your project.",
-    "projectTypes": ["Web application", "Website", "Mobile app", "Business system / ERP", "Speaking or event", "Something else"]
+    "projectTypes": [
+      "Web application",
+      "Website",
+      "Mobile app",
+      "Business system / ERP",
+      "Speaking or event",
+      "Something else"
+    ]
   },
   "caseStudies": [
     {
@@ -219,16 +707,170 @@
       "title": "MyPropify==NG==",
       "tagline": "Find your next home. Without the risk.",
       "intro": "A Nigerian real estate platform that connects renters, buyers, students and investors with verified properties. I founded MyPropifyNG to tackle one of the biggest problems in the Nigerian property market: fraud.",
-      "chips": ["Role: CEO/Founder", "Launched 2025", "Lagos · Abuja · Port Harcourt", "Built by Rhadsoft Tech"],
+      "chips": [
+        "Role: CEO/Founder",
+        "Launched 2025",
+        "Lagos · Abuja · Port Harcourt",
+        "Built by Rhadsoft Tech"
+      ],
       "siteLabel": "Visit mypropify.com.ng ↗",
       "siteLink": "https://www.mypropify.com.ng/",
       "stats": [],
       "blocks": [
-        { "type": "problem", "eyebrow": "The problem", "heading": "Finding a home in Nigeria shouldn't feel like a ~~gamble~~.", "text": "House hunters lose money to fake listings and fake agents, and there's no reliable way to check a property before paying. Trust in the market is low, and honest owners and agents suffer for it too.", "items": [{ "title": "Fake listings and properties that don't exist or aren't for rent." }, { "title": "Fake agents who collect inspection or agency fees and disappear." }, { "title": "Photos that don't match the real property." }, { "title": "No trusted information about safety, roads or amenities in an area." }, { "title": "Payments made outside any protected system, with no way to get money back." }] },
-        { "type": "verify", "eyebrow": "The solution", "heading": "Verify every listing ==before it goes live==", "text": "No property appears on MyPropifyNG until it passes a 3-stage verification. Payments go through the platform, and listing is free for both owners and seekers.", "items": [{ "title": "Document authentication", "text": "Title and ownership documents are checked to confirm the person listing the property has the right to rent or sell it.", "note": "Ownership confirmed" }, { "title": "Physical inspection", "text": "The property is visited in person to confirm it exists and matches its description and photos.", "note": "Property visited" }, { "title": "Partner validation", "text": "Trusted partners confirm the listing before it goes live, adding a final layer of protection.", "note": "Approved to go live" }] },
-        { "type": "cards", "eyebrow": "Features", "heading": "What the platform __offers__", "text": "", "alt": false, "items": [{ "icon": "shield", "title": "Verified listings", "text": "Every property passes document checks, physical inspection and partner validation before it goes live.", "badge": "" }, { "icon": "search", "title": "Property requests", "text": "Seekers describe exactly what they want and receive matched listings from verified sources.", "badge": "" }, { "icon": "map", "title": "Neighbourhood insights", "text": "Community members share first-hand information on safety, infrastructure, amenities and lifestyle.", "badge": "" }, { "icon": "card", "title": "Secure payments", "text": "Transparent, protected transactions handled directly through the platform.", "badge": "" }, { "icon": "zero", "title": "Zero listing fees", "text": "Property seekers and owners list and search free of charge.", "badge": "" }, { "icon": "ai", "title": "ProPifyAI matching", "text": "AI that matches people with suitable properties within 24 hours of a request.", "badge": "Coming soon" }] },
-        { "type": "tags", "eyebrow": "Who it serves", "heading": "Built for everyone in the property journey.", "text": "MyPropifyNG serves both sides of the market, so seekers get safety and genuine owners and agents get trust.", "alt": true, "items": [{ "title": "Renters" }, { "title": "Buyers & lessees" }, { "title": "Students looking for affordable accommodation" }, { "title": "Property owners" }, { "title": "Developers" }, { "title": "Real estate agents" }, { "title": "Property investors" }] },
-        { "type": "roleRoadmap", "eyebrow": "My role", "heading": "Founder, CEO and product lead.", "text": "I founded MyPropifyNG and lead the company's vision, product and growth. The platform is built by Rhadsoft Tech, my software studio, so product decisions and engineering sit closely together.", "points": ["Set the product vision and the verification-first approach.", "Lead product design and development with the Rhadsoft team.", "Drive launch and growth across Lagos, Abuja and Port Harcourt."], "roadEyebrow": "Journey", "roadHeading": "Where it's going.", "items": [{ "note": "2025", "title": "Launch", "text": "MyPropifyNG goes live with verified listings in Lagos, Abuja and Port Harcourt.", "done": true }, { "note": "Coming soon", "title": "ProPifyAI", "text": "AI-powered matching that connects seekers with suitable properties within 24 hours.", "done": false }, { "note": "Next", "title": "Expansion", "text": "Growing to five major Nigerian cities.", "done": false }] }
+        {
+          "type": "problem",
+          "eyebrow": "The problem",
+          "heading": "Finding a home in Nigeria shouldn't feel like a ~~gamble~~.",
+          "text": "House hunters lose money to fake listings and fake agents, and there's no reliable way to check a property before paying. Trust in the market is low, and honest owners and agents suffer for it too.",
+          "items": [
+            {
+              "title": "Fake listings and properties that don't exist or aren't for rent."
+            },
+            {
+              "title": "Fake agents who collect inspection or agency fees and disappear."
+            },
+            {
+              "title": "Photos that don't match the real property."
+            },
+            {
+              "title": "No trusted information about safety, roads or amenities in an area."
+            },
+            {
+              "title": "Payments made outside any protected system, with no way to get money back."
+            }
+          ]
+        },
+        {
+          "type": "verify",
+          "eyebrow": "The solution",
+          "heading": "Verify every listing ==before it goes live==",
+          "text": "No property appears on MyPropifyNG until it passes a 3-stage verification. Payments go through the platform, and listing is free for both owners and seekers.",
+          "items": [
+            {
+              "title": "Document authentication",
+              "text": "Title and ownership documents are checked to confirm the person listing the property has the right to rent or sell it.",
+              "note": "Ownership confirmed"
+            },
+            {
+              "title": "Physical inspection",
+              "text": "The property is visited in person to confirm it exists and matches its description and photos.",
+              "note": "Property visited"
+            },
+            {
+              "title": "Partner validation",
+              "text": "Trusted partners confirm the listing before it goes live, adding a final layer of protection.",
+              "note": "Approved to go live"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Features",
+          "heading": "What the platform __offers__",
+          "text": "",
+          "alt": false,
+          "items": [
+            {
+              "icon": "shield",
+              "title": "Verified listings",
+              "text": "Every property passes document checks, physical inspection and partner validation before it goes live.",
+              "badge": ""
+            },
+            {
+              "icon": "search",
+              "title": "Property requests",
+              "text": "Seekers describe exactly what they want and receive matched listings from verified sources.",
+              "badge": ""
+            },
+            {
+              "icon": "map",
+              "title": "Neighbourhood insights",
+              "text": "Community members share first-hand information on safety, infrastructure, amenities and lifestyle.",
+              "badge": ""
+            },
+            {
+              "icon": "card",
+              "title": "Secure payments",
+              "text": "Transparent, protected transactions handled directly through the platform.",
+              "badge": ""
+            },
+            {
+              "icon": "zero",
+              "title": "Zero listing fees",
+              "text": "Property seekers and owners list and search free of charge.",
+              "badge": ""
+            },
+            {
+              "icon": "ai",
+              "title": "ProPifyAI matching",
+              "text": "AI that matches people with suitable properties within 24 hours of a request.",
+              "badge": "Coming soon"
+            }
+          ]
+        },
+        {
+          "type": "tags",
+          "eyebrow": "Who it serves",
+          "heading": "Built for everyone in the property journey.",
+          "text": "MyPropifyNG serves both sides of the market, so seekers get safety and genuine owners and agents get trust.",
+          "alt": true,
+          "items": [
+            {
+              "title": "Renters"
+            },
+            {
+              "title": "Buyers & lessees"
+            },
+            {
+              "title": "Students looking for affordable accommodation"
+            },
+            {
+              "title": "Property owners"
+            },
+            {
+              "title": "Developers"
+            },
+            {
+              "title": "Real estate agents"
+            },
+            {
+              "title": "Property investors"
+            }
+          ]
+        },
+        {
+          "type": "roleRoadmap",
+          "eyebrow": "My role",
+          "heading": "Founder, CEO and product lead.",
+          "text": "I founded MyPropifyNG and lead the company's vision, product and growth. The platform is built by Rhadsoft Tech, my software studio, so product decisions and engineering sit closely together.",
+          "points": [
+            "Set the product vision and the verification-first approach.",
+            "Lead product design and development with the Rhadsoft team.",
+            "Drive launch and growth across Lagos, Abuja and Port Harcourt."
+          ],
+          "roadEyebrow": "Journey",
+          "roadHeading": "Where it's going.",
+          "items": [
+            {
+              "note": "2025",
+              "title": "Launch",
+              "text": "MyPropifyNG goes live with verified listings in Lagos, Abuja and Port Harcourt.",
+              "done": true
+            },
+            {
+              "note": "Coming soon",
+              "title": "ProPifyAI",
+              "text": "AI-powered matching that connects seekers with suitable properties within 24 hours.",
+              "done": false
+            },
+            {
+              "note": "Next",
+              "title": "Expansion",
+              "text": "Growing to five major Nigerian cities.",
+              "done": false
+            }
+          ]
+        }
       ],
       "ctaHeading": "Looking for a home, or have a property to list?",
       "ctaLabel": "Visit MyPropifyNG ↗",
@@ -243,16 +885,198 @@
       "title": "Rhadsoft ==Tech==",
       "tagline": "Software that fits how your business actually works.",
       "intro": "Rhadsoft Tech is the software studio I founded in 2021. We design and build web platforms, mobile apps, ERP systems and AI solutions for Nigerian businesses, and we build and run our own products.",
-      "chips": ["Role: Founder & Lead Developer", "Founded 2021", "Studios: Surulere & Ikorodu, Lagos"],
+      "chips": [
+        "Role: Founder & Lead Developer",
+        "Founded 2021",
+        "Studios: Surulere & Ikorodu, Lagos"
+      ],
       "siteLabel": "Visit rhadsoft.com.ng ↗",
       "siteLink": "https://rhadsoft.com.ng",
-      "stats": [{ "value": "50+", "label": "Projects delivered" }, { "value": "30+", "label": "Clients served" }, { "value": "6", "label": "Own products built" }, { "value": "2", "label": "Studios in Lagos" }],
+      "stats": [
+        {
+          "value": "50+",
+          "label": "Projects delivered"
+        },
+        {
+          "value": "30+",
+          "label": "Clients served"
+        },
+        {
+          "value": "6",
+          "label": "Own products built"
+        },
+        {
+          "value": "2",
+          "label": "Studios in Lagos"
+        }
+      ],
       "blocks": [
-        { "type": "quote", "eyebrow": "Why Rhadsoft exists", "heading": "World-class software, priced for ~~where you are~~.", "text": "Many Nigerian businesses still run on spreadsheets, paper and tools that don't fit how they work. I started Rhadsoft to change that: custom software built around each client's real processes, not the other way round.", "quote": "Give Nigerian and African businesses the same quality of software global companies take for granted, priced for where they are today.", "quoteBy": "Rhadsoft Tech mission" },
-        { "type": "cards", "eyebrow": "Services", "heading": "What we ==build==", "text": "From a single web app to a full ERP, delivered end to end.", "alt": true, "items": [{ "icon": "ai", "title": "AI & Automation", "text": "AI-powered tools and automations that take repetitive work off your team.", "badge": "" }, { "icon": "code", "title": "Web Development", "text": "Websites, web apps and platforms built to be fast, secure and easy to use.", "badge": "" }, { "icon": "phone", "title": "Mobile Apps", "text": "Mobile apps that put your service in your customers' pockets.", "badge": "" }, { "icon": "grid", "title": "Custom ERP", "text": "Connected systems for operations, finance, HR and clients, built around how you work.", "badge": "" }, { "icon": "iot", "title": "IoT Solutions", "text": "Connected devices and dashboards that bring physical operations online.", "badge": "" }, { "icon": "chat", "title": "IT Consulting", "text": "Advice on the right technology, architecture and roadmap for your business.", "badge": "" }] },
-        { "type": "cards", "eyebrow": "Our products", "heading": "Products we build and __run__", "text": "Alongside client work, Rhadsoft builds and operates its own platforms.", "alt": false, "items": [{ "icon": "home", "title": "MyPropifyNG", "text": "Verified real estate marketplace helping Nigerians find homes without the risk of fraud.", "badge": "Live" }, { "icon": "book", "title": "BookoraNG", "text": "Digital books marketplace where Nigerian authors publish and readers buy ebooks.", "badge": "Live" }, { "icon": "pin", "title": "IkoroduSquare", "text": "Local discovery platform for finding businesses and services in Ikorodu.", "badge": "Live" }, { "icon": "cal", "title": "BookMeNaija", "text": "Service bookings platform for booking and managing appointments.", "badge": "Live" }, { "icon": "car", "title": "RenRide", "text": "Vehicle rental platform.", "badge": "In development" }, { "icon": "check", "title": "Kompliva", "text": "ISO compliance management app that keeps organisations audit-ready all year.", "badge": "In development" }] },
-        { "type": "tags", "eyebrow": "Clients", "heading": "Businesses we've worked with", "text": "Across certification, insurance, energy, food, logistics and real estate.", "alt": true, "items": [{ "title": "IEMA Standards" }, { "title": "IEMA Institute" }, { "title": "Mainway Insurance" }, { "title": "RECAP" }, { "title": "Driverpot" }, { "title": "CSMC Worldwide" }, { "title": "Estana Apartments" }, { "title": "Marfran Energy" }, { "title": "Kaplan Energy" }, { "title": "Adebisi Foods" }] },
-        { "type": "roleRoadmap", "eyebrow": "Client highlight", "heading": "IEMA Standards: one connected operations suite.", "text": "For IEMA Standards Limited, an ISO certification and training company, we built CRMops, FINops and HRops: connected systems for client management, finance and HR. The team now runs its day-to-day operations from one set of tools built around its own processes.", "points": [], "roadEyebrow": "What's next", "roadHeading": "Rhadsoft Labs.", "items": [{ "note": "2021", "title": "Rhadsoft Tech founded", "text": "Started building software for Nigerian businesses.", "done": true }, { "note": "Today", "title": "50+ projects, 6 products", "text": "Two studios in Surulere and Ikorodu serving 30+ clients.", "done": true }, { "note": "Coming soon", "title": "Rhadsoft Labs", "text": "A new arm focused on hardware and robotics.", "done": false }] }
+        {
+          "type": "quote",
+          "eyebrow": "Why Rhadsoft exists",
+          "heading": "World-class software, priced for ~~where you are~~.",
+          "text": "Many Nigerian businesses still run on spreadsheets, paper and tools that don't fit how they work. I started Rhadsoft to change that: custom software built around each client's real processes, not the other way round.",
+          "quote": "Give Nigerian and African businesses the same quality of software global companies take for granted, priced for where they are today.",
+          "quoteBy": "Rhadsoft Tech mission"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Services",
+          "heading": "What we ==build==",
+          "text": "From a single web app to a full ERP, delivered end to end.",
+          "alt": true,
+          "items": [
+            {
+              "icon": "ai",
+              "title": "AI & Automation",
+              "text": "AI-powered tools and automations that take repetitive work off your team.",
+              "badge": ""
+            },
+            {
+              "icon": "code",
+              "title": "Web Development",
+              "text": "Websites, web apps and platforms built to be fast, secure and easy to use.",
+              "badge": ""
+            },
+            {
+              "icon": "phone",
+              "title": "Mobile Apps",
+              "text": "Mobile apps that put your service in your customers' pockets.",
+              "badge": ""
+            },
+            {
+              "icon": "grid",
+              "title": "Custom ERP",
+              "text": "Connected systems for operations, finance, HR and clients, built around how you work.",
+              "badge": ""
+            },
+            {
+              "icon": "iot",
+              "title": "IoT Solutions",
+              "text": "Connected devices and dashboards that bring physical operations online.",
+              "badge": ""
+            },
+            {
+              "icon": "chat",
+              "title": "IT Consulting",
+              "text": "Advice on the right technology, architecture and roadmap for your business.",
+              "badge": ""
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Our products",
+          "heading": "Products we build and __run__",
+          "text": "Alongside client work, Rhadsoft builds and operates its own platforms.",
+          "alt": false,
+          "items": [
+            {
+              "icon": "home",
+              "title": "MyPropifyNG",
+              "text": "Verified real estate marketplace helping Nigerians find homes without the risk of fraud.",
+              "badge": "Live"
+            },
+            {
+              "icon": "book",
+              "title": "BookoraNG",
+              "text": "Digital books marketplace where Nigerian authors publish and readers buy ebooks.",
+              "badge": "Live"
+            },
+            {
+              "icon": "pin",
+              "title": "IkoroduSquare",
+              "text": "Local discovery platform for finding businesses and services in Ikorodu.",
+              "badge": "Live"
+            },
+            {
+              "icon": "cal",
+              "title": "BookMeNaija",
+              "text": "Service bookings platform for booking and managing appointments.",
+              "badge": "Live"
+            },
+            {
+              "icon": "car",
+              "title": "RenRide",
+              "text": "Vehicle rental platform.",
+              "badge": "In development"
+            },
+            {
+              "icon": "check",
+              "title": "Kompliva",
+              "text": "ISO compliance management app that keeps organisations audit-ready all year.",
+              "badge": "In development"
+            }
+          ]
+        },
+        {
+          "type": "tags",
+          "eyebrow": "Clients",
+          "heading": "Businesses we've worked with",
+          "text": "Across certification, insurance, energy, food, logistics and real estate.",
+          "alt": true,
+          "items": [
+            {
+              "title": "IEMA Standards"
+            },
+            {
+              "title": "IEMA Institute"
+            },
+            {
+              "title": "Mainway Insurance"
+            },
+            {
+              "title": "RECAP"
+            },
+            {
+              "title": "Driverpot"
+            },
+            {
+              "title": "CSMC Worldwide"
+            },
+            {
+              "title": "Estana Apartments"
+            },
+            {
+              "title": "Marfran Energy"
+            },
+            {
+              "title": "Kaplan Energy"
+            },
+            {
+              "title": "Adebisi Foods"
+            }
+          ]
+        },
+        {
+          "type": "roleRoadmap",
+          "eyebrow": "Client highlight",
+          "heading": "IEMA Standards: one connected operations suite.",
+          "text": "For IEMA Standards Limited, an ISO certification and training company, we built CRMops, FINops and HRops: connected systems for client management, finance and HR. The team now runs its day-to-day operations from one set of tools built around its own processes.",
+          "points": [],
+          "roadEyebrow": "What's next",
+          "roadHeading": "Rhadsoft Labs.",
+          "items": [
+            {
+              "note": "2021",
+              "title": "Rhadsoft Tech founded",
+              "text": "Started building software for Nigerian businesses.",
+              "done": true
+            },
+            {
+              "note": "Today",
+              "title": "50+ projects, 6 products",
+              "text": "Two studios in Surulere and Ikorodu serving 30+ clients.",
+              "done": true
+            },
+            {
+              "note": "Coming soon",
+              "title": "Rhadsoft Labs",
+              "text": "A new arm focused on hardware and robotics.",
+              "done": false
+            }
+          ]
+        }
       ],
       "ctaHeading": "Need software that fits how your business works?",
       "ctaLabel": "Start a project",
@@ -265,25 +1089,103 @@
     "title": "Book Adewunmi ==to speak==",
     "tagline": "TEDx speaker · Event speaker · Panel moderator",
     "intro": "I speak about building software, starting companies and growing tech in Nigeria. Here's everything event organisers need: talk topics, bios, headshots and a booking form.",
-    "chips": ["TEDx Speaker", "Keynotes & panels", "Moderation", "In person in Lagos, or virtual"],
+    "chips": [
+      "TEDx Speaker",
+      "Keynotes & panels",
+      "Moderation",
+      "In person in Lagos, or virtual"
+    ],
     "topicsHeading": "What I __talk about__",
     "topicsIntro": "Each topic can be tailored to your audience, from founders and developers to students and corporate teams.",
     "topics": [
-      { "title": "Software that fits how Nigerian businesses actually work", "text": "Why so many businesses still run on paper and spreadsheets, and how custom software built around real processes changes that.", "formats": ["Keynote", "Workshop"] },
-      { "title": "Fighting property fraud with technology", "text": "The story of MyPropifyNG: how verification-first design rebuilds trust in the Nigerian real estate market.", "formats": ["Keynote", "Fireside chat"] },
-      { "title": "From developer to founder", "text": "Lessons from building Rhadsoft Tech and MyPropifyNG: products, clients, teams and staying close to the code.", "formats": ["Keynote", "Panel"] },
-      { "title": "Building local tech communities", "text": "What leading the Zev Builders Ikorodu chapter teaches about growing developer talent outside the usual tech hubs.", "formats": ["Panel", "Talk"] },
-      { "title": "AI and automation for African businesses", "text": "Practical ways small and growing businesses can use AI and automation today, without big budgets.", "formats": ["Talk", "Workshop"] },
-      { "title": "Startups, PropTech and the Nigerian market", "text": "Building products for Nigerian users: trust, payments, pricing and growth.", "formats": ["Panel", "Moderation"] }
+      {
+        "title": "Software that fits how Nigerian businesses actually work",
+        "text": "Why so many businesses still run on paper and spreadsheets, and how custom software built around real processes changes that.",
+        "formats": [
+          "Keynote",
+          "Workshop"
+        ]
+      },
+      {
+        "title": "Fighting property fraud with technology",
+        "text": "The story of MyPropifyNG: how verification-first design rebuilds trust in the Nigerian real estate market.",
+        "formats": [
+          "Keynote",
+          "Fireside chat"
+        ]
+      },
+      {
+        "title": "From developer to founder",
+        "text": "Lessons from building Rhadsoft Tech and MyPropifyNG: products, clients, teams and staying close to the code.",
+        "formats": [
+          "Keynote",
+          "Panel"
+        ]
+      },
+      {
+        "title": "Building local tech communities",
+        "text": "What leading the Zev Builders Ikorodu chapter teaches about growing developer talent outside the usual tech hubs.",
+        "formats": [
+          "Panel",
+          "Talk"
+        ]
+      },
+      {
+        "title": "AI and automation for African businesses",
+        "text": "Practical ways small and growing businesses can use AI and automation today, without big budgets.",
+        "formats": [
+          "Talk",
+          "Workshop"
+        ]
+      },
+      {
+        "title": "Startups, PropTech and the Nigerian market",
+        "text": "Building products for Nigerian users: trust, payments, pricing and growth.",
+        "formats": [
+          "Panel",
+          "Moderation"
+        ]
+      }
     ],
-    "formats": ["Keynotes", "Panel discussions", "Panel moderation", "Fireside chats", "Workshops & masterclasses", "Virtual talks"],
+    "formats": [
+      "Keynotes",
+      "Panel discussions",
+      "Panel moderation",
+      "Fireside chats",
+      "Workshops & masterclasses",
+      "Virtual talks"
+    ],
     "shortBio": "Adewunmi Erijide Adeniji (Primemaven) is a Lagos-based full stack developer, TEDx speaker and the CEO/Founder of MyPropifyNG, a real estate platform that protects Nigerians from property fraud through verified listings. He also founded Rhadsoft Tech, a software studio that has delivered 50+ projects for 30+ clients.",
     "longBio": "Adewunmi Erijide Adeniji, known as Primemaven, is a full stack developer, founder and TEDx speaker based in Lagos, Nigeria. He builds software that fits how Nigerian businesses actually work.\n\nHe is the CEO and Founder of MyPropifyNG, a real estate platform launched in 2025 across Lagos, Abuja and Port Harcourt. MyPropifyNG puts every listing through a 3-stage verification process of document authentication, physical inspection and partner validation, helping renters, buyers and students find homes without the risk of fraud.\n\nIn 2021 he founded Rhadsoft Tech, a software studio with bases in Surulere and Ikorodu that designs and builds web platforms, mobile apps, ERP systems and AI solutions. Rhadsoft has delivered more than 50 projects for over 30 clients and runs its own products, including MyPropifyNG, BookoraNG, IkoroduSquare and BookMeNaija.\n\nAdewunmi also leads the Ikorodu chapter of Zev Builders, the developer community of Zevop, where he helps local developers learn, build and ship. He speaks and moderates at technology and industry events on software, entrepreneurship and building tech in Nigeria.",
     "pastEvents": [
-      { "kind": "TEDx", "title": "TEDx talk", "detail": "Add event name, talk title and year", "role": "Speaker", "placeholder": true },
-      { "kind": "Tech event", "title": "Add event name", "detail": "Add talk title, city and year", "role": "Speaker", "placeholder": true },
-      { "kind": "Panel", "title": "Add event name", "detail": "Add panel topic and year", "role": "Moderator", "placeholder": true },
-      { "kind": "Community", "title": "Zev Builders Ikorodu", "detail": "Chapter meetups and build sessions", "role": "Chapter lead", "placeholder": false }
+      {
+        "kind": "TEDx",
+        "title": "TEDx talk",
+        "detail": "Add event name, talk title and year",
+        "role": "Speaker",
+        "placeholder": true
+      },
+      {
+        "kind": "Tech event",
+        "title": "Add event name",
+        "detail": "Add talk title, city and year",
+        "role": "Speaker",
+        "placeholder": true
+      },
+      {
+        "kind": "Panel",
+        "title": "Add event name",
+        "detail": "Add panel topic and year",
+        "role": "Moderator",
+        "placeholder": true
+      },
+      {
+        "kind": "Community",
+        "title": "Zev Builders Ikorodu",
+        "detail": "Chapter meetups and build sessions",
+        "role": "Chapter lead",
+        "placeholder": false
+      }
     ],
     "bookingHeading": "Invite me to your ==event==",
     "bookingText": "Share a few details and I'll get back to you within 48 hours. For urgent requests, call or WhatsApp +234 815 665 5091."
@@ -293,13 +1195,55 @@
     "seoDescription": "Photos of Adewunmi Adeniji (Primemaven) speaking at TEDx, moderating panels and leading Zev Builders Ikorodu meetups at tech events in Nigeria.",
     "intro": "Moments from the TEDx stage, tech events I've spoken at and moderated, and Zev Builders Ikorodu meetups.",
     "events": [
-      { "src": "", "title": "TEDx talk", "detail": "Speaker · add event name & year", "type": "speaking", "size": "wide tall" },
-      { "src": "", "title": "Tech event keynote", "detail": "Speaker · add event name", "type": "speaking", "size": "" },
-      { "src": "", "title": "Panel session", "detail": "Moderator · add event name", "type": "moderating", "size": "tall" },
-      { "src": "", "title": "Zev Builders Ikorodu meetup", "detail": "Chapter lead · Ikorodu", "type": "community", "size": "" },
-      { "src": "", "title": "Fireside chat", "detail": "Moderator · add event name", "type": "moderating", "size": "wide" },
-      { "src": "", "title": "Workshop / masterclass", "detail": "Speaker · add event name", "type": "speaking", "size": "" },
-      { "src": "", "title": "Community hangout", "detail": "Zev Builders · Ikorodu", "type": "community", "size": "" }
+      {
+        "src": "",
+        "title": "TEDx talk",
+        "detail": "Speaker · add event name & year",
+        "type": "speaking",
+        "size": "wide tall"
+      },
+      {
+        "src": "",
+        "title": "Tech event keynote",
+        "detail": "Speaker · add event name",
+        "type": "speaking",
+        "size": ""
+      },
+      {
+        "src": "",
+        "title": "Panel session",
+        "detail": "Moderator · add event name",
+        "type": "moderating",
+        "size": "tall"
+      },
+      {
+        "src": "",
+        "title": "Zev Builders Ikorodu meetup",
+        "detail": "Chapter lead · Ikorodu",
+        "type": "community",
+        "size": ""
+      },
+      {
+        "src": "",
+        "title": "Fireside chat",
+        "detail": "Moderator · add event name",
+        "type": "moderating",
+        "size": "wide"
+      },
+      {
+        "src": "",
+        "title": "Workshop / masterclass",
+        "detail": "Speaker · add event name",
+        "type": "speaking",
+        "size": ""
+      },
+      {
+        "src": "",
+        "title": "Community hangout",
+        "detail": "Zev Builders · Ikorodu",
+        "type": "community",
+        "size": ""
+      }
     ]
   },
   "blog": {
