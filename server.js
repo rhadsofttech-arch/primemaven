@@ -165,14 +165,14 @@ async function handle(req, res) {
     if (p.startsWith('/admin/')) {
       const rel = p === '/admin/' ? 'index.html' : p.slice('/admin/'.length);
       if (serveFile(req, res, ADMIN, rel, 'no-store')) return;
-      return page(res, render.notFound(c, v), 404);
+      return page(res, render.notFound(c, v, p), 404);
     }
 
     // public assets
     if (/\.[a-z0-9]+$/i.test(p) && !p.endsWith('.xml') && !p.endsWith('.txt')) {
       const versioned = /[?&]v=/.test(q);
       if (serveFile(req, res, PUBLIC, p.slice(1), versioned ? 'public, max-age=31536000, immutable' : 'public, max-age=86400')) return;
-      return page(res, render.notFound(c, v), 404);
+      return page(res, render.notFound(c, v, p), 404);
     }
 
     // pages
@@ -189,7 +189,7 @@ async function handle(req, res) {
     if (p === '/health') return json(res, 200, { ok: true });
     const cs = (c.caseStudies || []).find((x) => '/' + x.slug === p);
     if (cs) return page(res, render.caseStudy(c, cs, v));
-    return page(res, render.notFound(c, v), 404);
+    return page(res, render.notFound(c, v, p), 404);
   }
   return send(res, 405, 'Method not allowed', 'text/plain', { Allow: 'GET, HEAD' });
 }
