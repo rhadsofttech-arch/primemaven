@@ -263,7 +263,9 @@
       prepare(fl).then(function (dataUrl) { return api('POST', 'upload', { name: fl.name, data: dataUrl }); })
         .then(function (r) {
           obj[f.key] = r.url; url.value = r.url; setDirty(); draw();
-          toast(r.committed ? 'Image uploaded. Click "Save & publish" to use it on the site.' : 'Image uploaded to the server (not backed up to GitHub). Click "Save & publish".', !r.committed);
+          toast(r.committed ? 'Image uploaded. Click "Save & publish" to use it on the site.'
+            : r.temporary ? 'Image uploaded for now only. Add a GITHUB_TOKEN variable on your server so uploads are kept.'
+            : 'Image uploaded to the server (not backed up to GitHub). Click "Save & publish".', !r.committed);
         })
         .catch(function (e) { toast(e.message, true); })
         .finally(function () { upBtn.firstChild.textContent = 'Upload image'; file.value = ''; });

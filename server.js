@@ -145,10 +145,14 @@ async function handle(req, res) {
   try { p = decodeURIComponent(url.pathname); } catch { return send(res, 400, 'Bad request', 'text/plain'); }
   const q = url.search;
   const GET = req.method === 'GET' || req.method === 'HEAD';
-  const c = store.get(), v = store.version();
 
   // admin API
   if (p.startsWith('/admin/api/')) return adminApi(req, res, p.slice('/admin/api/'.length));
+
+  // pick up changes saved from the dashboard on other running copies of the site
+  const isAsset = /\.[a-z0-9]+$/i.test(p) && !p.endsWith('.xml') && !p.endsWith('.txt');
+  if (!isAsset) await store.maybeRefresh();
+  const c = store.get(), v = store.version();
 
   if (GET) {
     // clean URLs: drop .html / .php, index files and trailing slashes
@@ -172,6 +176,11 @@ async function handle(req, res) {
     if (/\.[a-z0-9]+$/i.test(p) && !p.endsWith('.xml') && !p.endsWith('.txt')) {
       const versioned = /[?&]v=/.test(q);
       if (serveFile(req, res, PUBLIC, p.slice(1), versioned ? 'public, max-age=31536000, immutable' : 'public, max-age=86400')) return;
+      // images uploaded from the dashboard that aren't in this deploy yet
+      if (p.startsWith('/images/uploads/')) {
+        const up = await store.getUpload(p.slice('/images/uploads/'.length));
+        if (up) return send(res, 200, up.buf, up.type, { 'Cache-Control': 'public, max-age=86400', 'Content-Length': up.buf.length });
+      }
       return page(res, render.notFound(c, v, p), 404);
     }
 
@@ -194,13 +203,18 @@ async function handle(req, res) {
   return send(res, 405, 'Method not allowed', 'text/plain', { Allow: 'GET, HEAD' });
 }
 
-const server = http.createServer((req, res) => {
+/** Request handler, usable by a normal server or by serverless hosts that import this file. */
+function app(req, res) {
   handle(req, res).catch((e) => {
     console.error(e);
-    if (!res.headersSent) json(res, e.code === 413 || e.code === 400 ? e.code : 500, { error: e.code ? e.message : 'Something went wrong.' });
+    if (!res.headersSent) json(res, e.code === 413 || e.code === 400 ? e.code : 500, { error: e.code ? e.message : e.message || 'Something went wrong.' });
   });
-});
+}
+module.exports = app;
 
-store.pullLatest().finally(() => {
-  server.listen(PORT, () => console.log(`Primemaven running on port ${PORT}${ADMIN_PASSWORD ? '' : ' (admin disabled: set ADMIN_PASSWORD)'}`));
-});
+if (require.main === module) {
+  const server = http.createServer(app);
+  store.pullLatest().finally(() => {
+    server.listen(PORT, () => console.log(`Primemaven running on port ${PORT}${ADMIN_PASSWORD ? '' : ' (admin disabled: set ADMIN_PASSWORD)'}`));
+  });
+}
