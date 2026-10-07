@@ -1150,44 +1150,30 @@
     "intro": "Moments from the TEDx stage, tech events I've spoken at and moderated, and Zev Builders Ikorodu meetups.",
     "events": [
       {
-        "src": "",
+        "src": "/images/uploads/primemaven-080591e08ada4c558037607e1fe90-muxk226j.jpg",
         "title": "TEDx talk",
-        "detail": "Speaker · add event name & year",
+        "detail": "Speaker · TEDx Elizade Univeristy.2025",
         "type": "speaking",
         "size": "wide tall"
       },
       {
-        "src": "",
-        "title": "Tech event keynote",
-        "detail": "Speaker · add event name",
-        "type": "speaking",
+        "src": "/images/uploads/techbroda-e099d6498067442899f0e382020440-muxk365s.jpg",
+        "title": "Nigeria Innovation Summit",
+        "detail": "Moderator· Nigeria Innovation Summit.2024",
+        "type": "moderating",
         "size": ""
       },
       {
-        "src": "",
-        "title": "Panel session",
-        "detail": "Moderator · add event name",
-        "type": "moderating",
+        "src": "/images/uploads/techbroda-f9fbcf08bd2147adac07e3b5d9b3d1-muxk4dfs.jpg",
+        "title": "Technical Workshop",
+        "detail": "Facilitator· Digital Outreach.2022",
+        "type": "speaking",
         "size": "tall"
       },
       {
-        "src": "",
-        "title": "Zev Builders Ikorodu meetup",
-        "detail": "Chapter lead · Ikorodu",
-        "type": "community",
-        "size": ""
-      },
-      {
-        "src": "",
-        "title": "Fireside chat",
-        "detail": "Moderator · add event name",
-        "type": "moderating",
-        "size": "wide"
-      },
-      {
-        "src": "",
-        "title": "Workshop / masterclass",
-        "detail": "Speaker · add event name",
+        "src": "/images/uploads/techbroda-8c40990f75c745609665e80a5af4d5-muxk78kg.jpg",
+        "title": "TEDx Elizade University",
+        "detail": "Speaker ·TEDx Elizade University",
         "type": "speaking",
         "size": ""
       },
